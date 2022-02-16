@@ -1,0 +1,5 @@
+﻿  ConsoleApplication10.cpp
+C:\Users\alex\source\repos\ConsoleApplication10\ConsoleApplication10\Header.h(16,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\alex\source\repos\ConsoleApplication10\ConsoleApplication10\Header.h(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(79,23): warning C4018: '<=': signed/unsigned mismatch
+  ConsoleApplication10.vcxproj -> C:\Users\alex\source\repos\ConsoleApplication10\Debug\ConsoleApplication10.exe
